@@ -1,0 +1,13 @@
+name: screentime
+dependencies:
+  - python=3.13.2
+  - pip
+  - pip:
+    - pandas
+    - numpy
+    - plotly
+    - dash
+    - scikit-learn 
+    - dash-bootstrap-components  
+    - dash-core-components      
+    - dash-html-components  
