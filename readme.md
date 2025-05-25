@@ -1,1 +1,8 @@
-This is my readme file for screentime project.
+# Screen Time Analysis
+
+## Project Overview:
+## Data Collection
+## Data Export
+## Modeling
+## Visualization
+## How to run
